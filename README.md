@@ -1,7 +1,7 @@
 ### Hi! I am Samyam Giri, a tech learner. 👦👋
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="200" height="200"/>
-  <img src="  https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" height="200"/>
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" height="200"/>
 
 </div>
 
