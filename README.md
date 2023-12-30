@@ -1,6 +1,6 @@
 ### Hi! I am Samyam Giri, a tech learner. 👋
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="200" height="200"/>
 </div>
 <!--
 **SamyamCodesavvy/SamyamCodesavvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
