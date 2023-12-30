@@ -2,6 +2,8 @@
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="200" height="200"/>
 </div>
+---
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SamyamCodesavvy&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
